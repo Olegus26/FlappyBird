@@ -69,4 +69,4 @@
 ## Контакты
 Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
 - Электронная почта: olegomelchenko26@gmail.com
-- GitHub: [yourusername](https://github.com/Olegus26)
+- GitHub: [Olegus26](https://github.com/Olegus26)
