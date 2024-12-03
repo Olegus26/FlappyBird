@@ -1,6 +1,6 @@
 # Клон Flappy Bird - Unity 2D
 
-![Flappy Bird Screenshot](https://example.com/screenshot.png)
+![Flappy Bird Screenshot](Assets/Flappy_Bird_icon.png)
 
 Это клон игры Flappy Bird, созданный с использованием Unity. Игра обладает классической механикой с простым, но захватывающим игровым процессом. Игрок управляет птицей, которая должна проходить через препятствия, избегая труб и набирая очки.
 
@@ -20,7 +20,7 @@
 
 Вот как выглядит игра в процессе:
 
-![Gameplay Demo](https://example.com/demo.gif)
+![Gameplay Demo](Assets/Movie_004.gif)
 
 ## Используемые технологии
 - **Unity**: Игровой движок для создания игры.
