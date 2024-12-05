@@ -20,7 +20,7 @@
 
 Вот как выглядит игра в процессе:
 
-![Gameplay Demo](Assets/Movie_004.gif)
+![Gameplay Demo](Assets/Movie.gif)
 
 ## Используемые технологии
 - **Unity**: Игровой движок для создания игры.
